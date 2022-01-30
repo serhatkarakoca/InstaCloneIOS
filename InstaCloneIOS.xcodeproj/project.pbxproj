@@ -25,6 +25,7 @@
 		73CD47A227A574360028FB04 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD47A127A574360028FB04 /* FeedViewController.swift */; };
 		73CD47A427A574570028FB04 /* UploadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD47A327A574570028FB04 /* UploadViewController.swift */; };
 		73CD47A627A574680028FB04 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73CD47A527A574680028FB04 /* ProfileViewController.swift */; };
+		73EAD43727A69146000901E5 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73EAD43627A69146000901E5 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		73CD47A127A574360028FB04 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		73CD47A327A574570028FB04 /* UploadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadViewController.swift; sourceTree = "<group>"; };
 		73CD47A527A574680028FB04 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		73EAD43627A69146000901E5 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +93,7 @@
 				73CD47A127A574360028FB04 /* FeedViewController.swift */,
 				73CD47A327A574570028FB04 /* UploadViewController.swift */,
 				73CD47A527A574680028FB04 /* ProfileViewController.swift */,
+				73EAD43627A69146000901E5 /* Utils.swift */,
 			);
 			path = InstaCloneIOS;
 			sourceTree = "<group>";
@@ -183,6 +186,7 @@
 				73CD47A627A574680028FB04 /* ProfileViewController.swift in Sources */,
 				73CD477D27A5588E0028FB04 /* ViewController.swift in Sources */,
 				73CD47A427A574570028FB04 /* UploadViewController.swift in Sources */,
+				73EAD43727A69146000901E5 /* Utils.swift in Sources */,
 				73CD477927A5588E0028FB04 /* AppDelegate.swift in Sources */,
 				73CD47A227A574360028FB04 /* FeedViewController.swift in Sources */,
 				73CD477B27A5588E0028FB04 /* SceneDelegate.swift in Sources */,
